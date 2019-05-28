@@ -1,1 +1,1 @@
-# sinewaves-io.github.io
+# sinewavesio.github.io
